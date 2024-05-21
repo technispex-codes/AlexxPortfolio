@@ -2,8 +2,7 @@
 
 
 ## About Me
-My name is Alexx Martinez and welcome to my portfolio. Here showcases my technical skills in Powershell, bash, and Python scripting. I documented my journey on my website here.
-
+My name is Alexx Martinez and welcome to my portfolio. Here showcases my technical skills in Powershell, bash, and Python scripting. 
 
 ## Projects
 
@@ -12,7 +11,7 @@ My name is Alexx Martinez and welcome to my portfolio. Here showcases my technic
 A command line tool developed with Python used for password creation.
 
 ### Active Directory
-#### Admin tools installation
+#### Admin tools Installation
 #### Domain Controller Standup
 #### Users, Computers, OUs, Oh my!
 
