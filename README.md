@@ -11,7 +11,6 @@ I have started a homelab series on <a href="https://gbb.efs.mybluehost.me">my bl
 <a href=https://github.com/technispex-codes/passman>Python Password Generator</a>
 
 
-<br></br>
 ### Homelab Series
 #### Active Directory Part 1
 <a href="https://github.com/technispex-codes/IT-Admin-Toolset/tree/main">IT Admin Toolset</a>
