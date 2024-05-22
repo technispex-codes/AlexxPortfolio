@@ -10,6 +10,7 @@ I have started a homelab series on <a href="https://gbb.efs.mybluehost.me">my bl
 ### General Use
 <a href=https://github.com/technispex-codes/passman>Python Password Generator</a>
 
+<a href="https://github.com/technispex-codes/CheckPhoneNum">AD User Verifier</a>
 
 ### Homelab Series
 #### Active Directory Part 1
