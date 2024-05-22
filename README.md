@@ -2,7 +2,7 @@
 
 
 ## About Me
-Welcome to my GitHub. I'm enthusiastic about learning to leverage security exploits, writing scripts, and design secure IT infrastructure. Feel free to peruse my projects, maybe you'll find something useful for your toolset.
+Welcome to my GitHub. I'm enthusiastic about learning to leverage security exploits, writing scripts, and designing secure IT infrastructure. Feel free to peruse my projects, maybe you'll find something useful for your toolset.
 
 ## Projects
 
