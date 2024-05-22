@@ -6,7 +6,7 @@ Welcome to my GitHub. I'm enthusiastic about learning security exploits, writing
 
 ## Projects
 
-### Custom Tools
+### General Use
 #### <a href=https://github.com/technispex-codes/passman>Python Password Generator</a>
 
 ### Active Directory
